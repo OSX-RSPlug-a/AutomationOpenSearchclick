@@ -1,6 +1,7 @@
 # AutomationOpenSearchclick
 
-This project is a test of selenium automatic open the brawser, search and click the subject.
+This project is a test to open automatic the browser, search and click the subject.
+
 
 Tecnologies:
 
